@@ -1,0 +1,34 @@
+div {
+    border: 1px solid black; 
+     
+    border-style:solid;
+    border-width:thin;
+
+}
+
+img {
+    width: 200px;   
+    border-style:dotted;
+    border-color:red;
+    
+}
+.split { height: 90%;
+  width: 50%;
+  position: fixed;
+  overflow-x: hidden;
+    padding-top: 10px; }
+
+.left {
+  left: 0px;
+  background-color:#daf1f5;
+
+}
+.right {
+  right: 0px;
+  background-color:#a4d5de ;
+}
+.centered{ height: 100%;
+width: 100%;
+}
+
+
